@@ -1,4 +1,5 @@
 Git is a version control system.
-:wq
+Press 'a' to edit in vim.
+
 
 
